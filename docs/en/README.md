@@ -1,4 +1,23 @@
 # Adapter Eufy-Security
+## Installation
+
+Of course, first install ioBroker in the usual way.
+
+Follow these steps to install Eufy-ecurity into ioBroker:
+
+1. Select Adapters in the left menu
+2. Choose Install from custom URL
+![Install from custom url](./img/Install01.png)
+
+3. Select the Custom tab
+4. Enter the url to eufy-security: https://github.com/bropat/ioBroker.eufy-security
+5. Click Install
+![Install eufy-security](./img/Install02.png)
+
+Wait until the adapter has finished installing and continue with configuration.
+
+## Updating
+Updating the plugin with the latest release can be done by following the installation manual again. Configuration will be kept safe and the new version will simply take over.
 
 ## Configuration
 
